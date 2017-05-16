@@ -18,7 +18,7 @@ Nota: Se le pide al usuario que ingrese una conjetura. Si el usuario se equivoca
   >>
   * * * 
   >>>>>>>> 
-  >>>>>>>> 
+  **********
   >>>>>>>> 
   * * * 
   >>
