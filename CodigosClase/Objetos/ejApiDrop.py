@@ -39,7 +39,7 @@ class DropBoxManager():
 
 
 if __name__ == '__main__':
-	dM=DropBoxManager("")
+	dM=DropBoxManager("")#Aquí pongan su token de acceso
 	dM.listDir()
 	dM.upload("ejApiDrop.py")
 	dM.download("")
